@@ -3,8 +3,8 @@
 **Turtle Crossing Game**  
 Python’un **turtle** modülüyle geliştirilmiş, eğlenceli ve öğretici bir arcade oyunudur. Bu projede, kaplumbağanızın kontrolünü elinize alarak, ekranın sağından gelen rastgele arabalardan kaçmaya çalışıyorsunuz. 🚗🐢
 
+![image](https://github.com/user-attachments/assets/505cd06e-fc1b-495b-85f3-16b7b405ee3b)
 
-![image](https://github.com/user-attachments/assets/8c0e7b5c-9ae4-4e17-ab21-e8866772bd08)
 
 
 ## Özellikler
